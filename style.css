@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    color: aliceblue;
+    background: linear-gradient(to left ,#ffb6c1,#c8a2c8, #add8e6 )
+}
+body{
+    background-color: cornflowerblue;
+    text-align: center;
+}
+#bt00, #bt10, #bt20{
+    background:linear-gradient(to right,#c999af,#8a7c9b,#2271b3);
+    width: 100px;
+    height: 100px;
+    margin: 2px;
+    border-radius: 15px;
+    font-size: 50px;
+    vertical-align: top;
+}
+#bt01, #bt11, #bt21{
+    background:linear-gradient(to right,#c999af,#8a7c9b,#2271b3);
+    width: 100px;
+    height: 100px;
+    border-radius: 15px;
+    margin: 2px;
+    font-size: 50px;
+    vertical-align: top;
+}
+#bt02, #bt12, #bt22{
+    background:linear-gradient(to right,#c999af,#8a7c9b,#2271b3);
+    width: 100px;
+    height: 100px;
+    border-radius: 15px;
+    margin: 2px;
+    font-size: 50px;
+    vertical-align: top;
+}
